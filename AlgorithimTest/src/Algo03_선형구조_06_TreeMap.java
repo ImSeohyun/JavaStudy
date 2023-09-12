@@ -2,7 +2,7 @@ import java.util.Comparator;
 import java.util.SortedMap;
 import java.util.TreeMap;
 
-public class Algo03_선형구조_06_TripMap {
+public class Algo03_선형구조_06_TreeMap {
 
 	public static void main(String[] args) {
 

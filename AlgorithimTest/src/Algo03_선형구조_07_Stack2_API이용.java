@@ -18,8 +18,8 @@ public class Algo03_선형구조_07_Stack2_API이용 {
 		x.push(1);
 
 		System.out.println(x); // [5, 4, 3, 2, 1]
-		// 값을 제거하고 제거된 값을 반환
 
+		// 값을 제거하고 제거된 값을 반환
 		int n = x.pop();
 		System.out.println(n + " " + x);// 1 [5, 4, 3, 2]
 		
